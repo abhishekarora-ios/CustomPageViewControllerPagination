@@ -2,8 +2,8 @@
 //  ColorExtension.swift
 //  dineout
 //
-//  Created by Vipul Singhania on 03/02/17.
-//  Copyright © 2017 TIL. All rights reserved.
+//  Created by Abhishek Arora on 03/02/17.
+//  Copyright © 2017 AMC. All rights reserved.
 //
 
 import Foundation
