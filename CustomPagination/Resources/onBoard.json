@@ -1,0 +1,27 @@
+{
+    "skipButton" : "Skip",
+    "onBoardDetails" : [
+        {
+            "image" : "onBoardImage1",
+            "title" : "Throwing a party?",
+            "button1" : "Pay Huge Bill Amount",
+            "button2" : "Top-up Rs. 1500+ from 12-3pm today"
+        },
+        {
+            "image" : "onBoardImage2",
+            "title" : "Month End Budget Issues?",
+            "button1" : "Wait for Salary",
+            "button2" : "Pay Bill via App,upto 25% cashback"
+        },
+        {
+            "image" : "onBoardImage3",
+            "title" : "Forgot the Anniversary?",
+            "button1" : "Panic",
+            "button2" : "Reserve a Table Instantly"
+        }
+    ]
+    
+    
+    
+}
+
