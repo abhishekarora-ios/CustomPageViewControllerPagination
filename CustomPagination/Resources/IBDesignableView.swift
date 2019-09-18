@@ -1,9 +1,8 @@
 //
 //  IBDesignableView.swift
-//  dineout
-//
-//  Created by Ravi Tailor on 28/03/18.
-//  Copyright © 2018 TIL. All rights reserved.
+
+//  Created by Abhishek Arora on 28/03/18.
+//  Copyright © 2018 AMC. All rights reserved.
 //
 
 import UIKit
