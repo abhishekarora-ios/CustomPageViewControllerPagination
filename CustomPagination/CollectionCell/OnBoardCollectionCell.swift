@@ -1,9 +1,8 @@
 //
 //  OnBoardCollectionCell.swift
-//  dineout
 //
 //  Created by Abhishek Arora on 17/09/19.
-//  Copyright © 2019 TIL. All rights reserved.
+//  Copyright © 2019 AMC. All rights reserved.
 //
 
 import UIKit
