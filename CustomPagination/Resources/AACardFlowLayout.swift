@@ -1,7 +1,7 @@
 //
 //  AACardFlowLayout.swift
 //  Created by Abhishek Arora on 18/09/19.
-//  Copyright © 2019 TIL. All rights reserved.
+//  Copyright © 2019 AMMC. All rights reserved.
 //
 
 import UIKit
